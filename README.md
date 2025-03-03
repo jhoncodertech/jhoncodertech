@@ -1,8 +1,32 @@
-<h1 align="center">Hi 👋, I'm Jhon Eider Velasco Molina</h1>
-<h3 align="center">👋 Hello! I'm Jhon Velasco, a passionate systems engineer and data administrator based in Colombia. As an enthusiastic researcher, I dedicate myself to exploring new frontiers in the world of technology and programming. 
-🚀 My experience includes working as a data administrator at Comfamiliar Risaralda, where I have gained valuable skills in efficient information management. My background in systems engineering has provided me with a solid technical foundation that I apply with dedication to every project. 
-💡 I'm always on the lookout for exciting opportunities to contribute and learn. My focus is on creating innovative and effective solutions, driven by my passion for technology and a constant desire for improvement. 
-🌐 Join me on this journey! I am open to collaborations, learning experiences, and new opportunities that allow me to grow as a professional. Let's build the digital future together!</h3>
+<h1 align="center">Hola 👋, soy Jhon Eider Velasco Molina</h1>
+<h3 align="center">🚀 Ingeniero de Sistemas y Administrador de Datos</h3>
+
+<p align="center">
+Soy un apasionado <strong>ingeniero de sistemas y administrador de bases de datos</strong> con experiencia en <strong>automatización de procesos, soporte técnico y análisis de datos</strong>. Mi enfoque está en <strong>optimizar sistemas de facturación y mejorar la gestión de información</strong> en empresas del sector tecnológico.
+</p>
+
+<h3>🎯 Experiencia clave:</h3>
+<ul>
+  <li>✔️ Administración de bases de datos en sistemas de facturación para hoteles, restaurantes y parques.</li>
+  <li>✔️ Automatización de procesos con <strong>Google Apps Script, SQL y Power Automate</strong>.</li>
+  <li>✔️ Soporte técnico N1 y N2 en aplicaciones empresariales como <strong>SAP, Office 365 y Netskope</strong>.</li>
+  <li>✔️ Gestión de redes e infraestructura TI, configuración de <strong>VLANs, routers y switches Cisco/MikroTik</strong>.</li>
+  <li>✔️ Desarrollo web con <strong>HTML, CSS, JavaScript y Bootstrap</strong>.</li>
+</ul>
+
+<h3>💡 Mi filosofía de trabajo:</h3>
+<p>Soy un <strong>autodidacta</strong> en constante aprendizaje, comprometido con la innovación tecnológica y la mejora continua de procesos.</p>
+
+<h3>🌍 ¿Colaboramos?</h3>
+<p>Estoy abierto a nuevas oportunidades para aplicar mis conocimientos, aprender y aportar en proyectos de <strong>tecnología, análisis de datos y automatización</strong>.</p>
+
+<h3>📩 Contáctame en:</h3>
+<ul>
+  <li>📧 jhonvelasco.tech@gmail.com</li>
+  <li>🔗 <a href="https://linkedin.com/in/jhonvelasco" target="_blank">LinkedIn</a></li>
+  <li>🔗 <a href="https://github.com/jhoncodertech" target="_blank">GitHub</a></li>
+</ul>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jhoncodertech" alt="jhoncodertech" /></a> </p>
 
